@@ -1,0 +1,3052 @@
+[{
+  "channelNum": 1,
+  "channelName": "CCTV-1"
+}, {
+  "channelNum": 2,
+  "channelName": "CCTV-2"
+}, {
+  "channelNum": 3,
+  "channelName": "CCTV-3"
+}, {
+  "channelNum": 4,
+  "channelName": "CCTV-4"
+}, {
+  "channelNum": 5,
+  "channelName": "CCTV-5"
+}, {
+  "channelNum": 6,
+  "channelName": "CCTV-6"
+}, {
+  "channelNum": 7,
+  "channelName": "CCTV-7"
+}, {
+  "channelNum": 8,
+  "channelName": "CCTV-8"
+}, {
+  "channelNum": 9,
+  "channelName": "CCTV-9"
+}, {
+  "channelNum": 10,
+  "channelName": "CCTV-10"
+}, {
+  "channelNum": 11,
+  "channelName": "CCTV-11"
+}, {
+  "channelNum": 12,
+  "channelName": "CCTV-12"
+}, {
+  "channelNum": 13,
+  "channelName": "CCTV-13"
+}, {
+  "channelNum": 14,
+  "channelName": "CCTV-14"
+}, {
+  "channelNum": 15,
+  "channelName": "CCTV-15"
+}, {
+  "channelNum": 16,
+  "channelName": "CCTV5+"
+}, {
+  "channelNum": 17,
+  "channelName": "国防军事频道"
+}, {
+  "channelNum": 19,
+  "channelName": "CCTV央视精品"
+}, {
+  "channelNum": 20,
+  "channelName": "CCTV央视台球"
+}, {
+  "channelNum": 22,
+  "channelName": "CCTV第一剧场"
+}, {
+  "channelNum": 23,
+  "channelName": "CCTV怀旧剧场"
+}, {
+  "channelNum": 24,
+  "channelName": "CCTV高尔夫网球"
+}, {
+  "channelNum": 26,
+  "channelName": "CCTV风云足球"
+}, {
+  "channelNum": 27,
+  "channelName": "CCTV世界地理频道"
+}, {
+  "channelNum": 28,
+  "channelName": "CCTV风云剧场"
+}, {
+  "channelNum": 30,
+  "channelName": "CCTV发现之旅"
+}, {
+  "channelNum": 31,
+  "channelName": "CCTV4(欧洲)"
+}, {
+  "channelNum": 32,
+  "channelName": "CCTV4(美洲)"
+}, {
+  "channelNum": 39,
+  "channelName": "CGTN国际频道"
+}, {
+  "channelNum": 40,
+  "channelName": "CGTN纪录频道"
+}, {
+  "channelNum": 41,
+  "channelName": "CGTN西语频道"
+}, {
+  "channelNum": 42,
+  "channelName": "CGTN法语频道"
+}, {
+  "channelNum": 43,
+  "channelName": "CGTN俄语频道"
+}, {
+  "channelNum": 44,
+  "channelName": "CGTN阿语频道"
+}, {
+  "channelNum": 47,
+  "channelName": "CETV-1"
+}, {
+  "channelNum": 48,
+  "channelName": "CETV-2"
+}, {
+  "channelNum": 49,
+  "channelName": "CETV-3"
+}, {
+  "channelNum": 50,
+  "channelName": "CETV-4"
+}, {
+  "channelNum": 101,
+  "channelName": "北京卫视"
+}, {
+  "channelNum": 102,
+  "channelName": "天津卫视"
+}, {
+  "channelNum": 103,
+  "channelName": "东方卫视"
+}, {
+  "channelNum": 104,
+  "channelName": "重庆卫视"
+}, {
+  "channelNum": 105,
+  "channelName": "湖南卫视"
+}, {
+  "channelNum": 106,
+  "channelName": "浙江卫视"
+}, {
+  "channelNum": 107,
+  "channelName": "江苏卫视"
+}, {
+  "channelNum": 108,
+  "channelName": "山东卫视"
+}, {
+  "channelNum": 109,
+  "channelName": "广东卫视"
+}, {
+  "channelNum": 110,
+  "channelName": "深圳卫视"
+}, {
+  "channelNum": 111,
+  "channelName": "安徽卫视"
+}, {
+  "channelNum": 112,
+  "channelName": "四川卫视"
+}, {
+  "channelNum": 113,
+  "channelName": "陕西卫视"
+}, {
+  "channelNum": 114,
+  "channelName": "山西卫视"
+}, {
+  "channelNum": 115,
+  "channelName": "湖北卫视"
+}, {
+  "channelNum": 116,
+  "channelName": "河北卫视"
+}, {
+  "channelNum": 117,
+  "channelName": "福建东南卫视"
+}, {
+  "channelNum": 118,
+  "channelName": "河南卫视"
+}, {
+  "channelNum": 119,
+  "channelName": "江西卫视"
+}, {
+  "channelNum": 120,
+  "channelName": "广西卫视"
+}, {
+  "channelNum": 121,
+  "channelName": "内蒙古卫视"
+}, {
+  "channelNum": 122,
+  "channelName": "海南旅游卫视"
+}, {
+  "channelNum": 123,
+  "channelName": "云南卫视"
+}, {
+  "channelNum": 124,
+  "channelName": "贵州卫视"
+}, {
+  "channelNum": 125,
+  "channelName": "青海卫视"
+}, {
+  "channelNum": 126,
+  "channelName": "宁夏卫视"
+}, {
+  "channelNum": 127,
+  "channelName": "甘肃卫视"
+}, {
+  "channelNum": 128,
+  "channelName": "黑龙江卫视"
+}, {
+  "channelNum": 129,
+  "channelName": "吉林卫视"
+}, {
+  "channelNum": 130,
+  "channelName": "辽宁卫视"
+}, {
+  "channelNum": 131,
+  "channelName": "西藏卫视"
+}, {
+  "channelNum": 132,
+  "channelName": "新疆卫视"
+}, {
+  "channelNum": 133,
+  "channelName": "新疆兵团卫视"
+}, {
+  "channelNum": 134,
+  "channelName": "福建厦门卫视"
+}, {
+  "channelNum": 135,
+  "channelName": "福建海峡卫视"
+}, {
+  "channelNum": 137,
+  "channelName": "广东南方卫视"
+}, {
+  "channelNum": 138,
+  "channelName": "广东珠江卫视"
+}, {
+  "channelNum": 142,
+  "channelName": "健康卫视"
+}, {
+  "channelNum": 201,
+  "channelName": "24小时新闻台"
+}, {
+  "channelNum": 204,
+  "channelName": "东方财经"
+}, {
+  "channelNum": 205,
+  "channelName": "第一财经"
+}, {
+  "channelNum": 206,
+  "channelName": "劲爆体育"
+}, {
+  "channelNum": 207,
+  "channelName": "魅力音乐"
+}, {
+  "channelNum": 208,
+  "channelName": "中国交通"
+}, {
+  "channelNum": 209,
+  "channelName": "英语辅导"
+}, {
+  "channelNum": 211,
+  "channelName": "嘉佳卡通"
+}, {
+  "channelNum": 212,
+  "channelName": "炫动卡通"
+}, {
+  "channelNum": 213,
+  "channelName": "优漫卡通"
+}, {
+  "channelNum": 214,
+  "channelName": "金鹰卡通"
+}, {
+  "channelNum": 216,
+  "channelName": "法治天地"
+}, {
+  "channelNum": 217,
+  "channelName": "快乐成长"
+}, {
+  "channelNum": 218,
+  "channelName": "武术世界"
+}, {
+  "channelNum": 219,
+  "channelName": "欧洲足球"
+}, {
+  "channelNum": 223,
+  "channelName": "中国气象频道"
+}, {
+  "channelNum": 224,
+  "channelName": "财富天下"
+}, {
+  "channelNum": 225,
+  "channelName": "书画频道"
+}, {
+  "channelNum": 226,
+  "channelName": "金鹰纪实"
+}, {
+  "channelNum": 227,
+  "channelName": "快乐垂钓"
+}, {
+  "channelNum": 228,
+  "channelName": "靓妆频道"
+}, {
+  "channelNum": 229,
+  "channelName": "先锋乒羽"
+}, {
+  "channelNum": 233,
+  "channelName": "汽车频道"
+}, {
+  "channelNum": 234,
+  "channelName": "资讯新干线"
+}, {
+  "channelNum": 235,
+  "channelName": "美食旅游"
+}, {
+  "channelNum": 236,
+  "channelName": "人物频道"
+}, {
+  "channelNum": 237,
+  "channelName": "美食天府"
+}, {
+  "channelNum": 238,
+  "channelName": "食尚频道"
+}, {
+  "channelNum": 239,
+  "channelName": "彩民在线"
+}, {
+  "channelNum": 240,
+  "channelName": "老年福"
+}, {
+  "channelNum": 241,
+  "channelName": "品质生活"
+}, {
+  "channelNum": 242,
+  "channelName": "游戏风云"
+}, {
+  "channelNum": 247,
+  "channelName": "全纪实"
+}, {
+  "channelNum": 248,
+  "channelName": "茶频道"
+}, {
+  "channelNum": 251,
+  "channelName": "金色频道"
+}, {
+  "channelNum": 253,
+  "channelName": "国学频道"
+}, {
+  "channelNum": 257,
+  "channelName": "幸福彩"
+}, {
+  "channelNum": 261,
+  "channelName": "极速汽车"
+}, {
+  "channelNum": 263,
+  "channelName": "珠江电影频道"
+}, {
+  "channelNum": 266,
+  "channelName": "四海钓鱼"
+}, {
+  "channelNum": 270,
+  "channelName": "家庭理财"
+}, {
+  "channelNum": 271,
+  "channelName": "梨园频道"
+}, {
+  "channelNum": 273,
+  "channelName": "新视觉HD"
+}, {
+  "channelNum": 274,
+  "channelName": "动漫秀场"
+}, {
+  "channelNum": 275,
+  "channelName": "七彩戏剧"
+}, {
+  "channelNum": 279,
+  "channelName": "欢笑剧场"
+}, {
+  "channelNum": 282,
+  "channelName": "文物宝库"
+}, {
+  "channelNum": 287,
+  "channelName": "都市剧场"
+}, {
+  "channelNum": 301,
+  "channelName": "北京文艺频道"
+}, {
+  "channelNum": 302,
+  "channelName": "北京科教频道"
+}, {
+  "channelNum": 303,
+  "channelName": "北京影视频道"
+}, {
+  "channelNum": 304,
+  "channelName": "北京财经频道"
+}, {
+  "channelNum": 305,
+  "channelName": "北京体育频道"
+}, {
+  "channelNum": 306,
+  "channelName": "北京生活频道"
+}, {
+  "channelNum": 307,
+  "channelName": "北京青年频道"
+}, {
+  "channelNum": 308,
+  "channelName": "北京新闻频道"
+}, {
+  "channelNum": 311,
+  "channelName": "北京时间"
+}, {
+  "channelNum": 312,
+  "channelName": "怀柔综合频道"
+}, {
+  "channelNum": 414,
+  "channelName": "宁河综合频道"
+}, {
+  "channelNum": 415,
+  "channelName": "西青新闻综合"
+}, {
+  "channelNum": 416,
+  "channelName": "西青生活娱乐"
+}, {
+  "channelNum": 501,
+  "channelName": "上海新闻综合"
+}, {
+  "channelNum": 502,
+  "channelName": "上海电视剧"
+}, {
+  "channelNum": 503,
+  "channelName": "东方电影频道"
+}, {
+  "channelNum": 504,
+  "channelName": "五星体育频道"
+}, {
+  "channelNum": 506,
+  "channelName": "上海艺术人文"
+}, {
+  "channelNum": 507,
+  "channelName": "上海娱乐频道"
+}, {
+  "channelNum": 510,
+  "channelName": "上海纪实频道"
+}, {
+  "channelNum": 511,
+  "channelName": "上海星尚频道"
+}, {
+  "channelNum": 514,
+  "channelName": "上海外语频道"
+}, {
+  "channelNum": 515,
+  "channelName": "上海教育频道"
+}, {
+  "channelNum": 519,
+  "channelName": "金山电视台"
+}, {
+  "channelNum": 601,
+  "channelName": "重庆新闻频道"
+}, {
+  "channelNum": 602,
+  "channelName": "重庆影视频道"
+}, {
+  "channelNum": 603,
+  "channelName": "重庆科教频道"
+}, {
+  "channelNum": 604,
+  "channelName": "重庆时尚频道"
+}, {
+  "channelNum": 605,
+  "channelName": "重庆都市频道"
+}, {
+  "channelNum": 606,
+  "channelName": "重庆文体娱乐"
+}, {
+  "channelNum": 607,
+  "channelName": "重庆生活资讯"
+}, {
+  "channelNum": 608,
+  "channelName": "重庆少儿频道"
+}, {
+  "channelNum": 610,
+  "channelName": "重庆移动频道"
+}, {
+  "channelNum": 611,
+  "channelName": "重庆公共·农村"
+}, {
+  "channelNum": 612,
+  "channelName": "重庆手持电视"
+}, {
+  "channelNum": 615,
+  "channelName": "涪陵综合频道"
+}, {
+  "channelNum": 622,
+  "channelName": "忠县综合频道"
+}, {
+  "channelNum": 625,
+  "channelName": "万州综合频道"
+}, {
+  "channelNum": 626,
+  "channelName": "万州影视文艺"
+}, {
+  "channelNum": 627,
+  "channelName": "万州三峡移民"
+}, {
+  "channelNum": 628,
+  "channelName": "万州科教频道"
+}, {
+  "channelNum": 629,
+  "channelName": "巴南综合频道"
+}, {
+  "channelNum": 631,
+  "channelName": "巴南快乐频道"
+}, {
+  "channelNum": 632,
+  "channelName": "綦江综合频道"
+}, {
+  "channelNum": 633,
+  "channelName": "綦江经济·民生"
+}, {
+  "channelNum": 634,
+  "channelName": "万盛新闻综合"
+}, {
+  "channelNum": 635,
+  "channelName": "垫江综合频道"
+}, {
+  "channelNum": 636,
+  "channelName": "垫江丹乡文化"
+}, {
+  "channelNum": 641,
+  "channelName": "奉吉综合频道"
+}, {
+  "channelNum": 642,
+  "channelName": "奉吉文旅频道"
+}, {
+  "channelNum": 643,
+  "channelName": "酉阳综合频道"
+}, {
+  "channelNum": 644,
+  "channelName": "酉阳文化旅游"
+}, {
+  "channelNum": 645,
+  "channelName": "长寿综合频道"
+}, {
+  "channelNum": 649,
+  "channelName": "城口综合频道"
+}, {
+  "channelNum": 650,
+  "channelName": "城口文旅频道"
+}, {
+  "channelNum": 651,
+  "channelName": "永川综合频道"
+}, {
+  "channelNum": 652,
+  "channelName": "永川科教频道"
+}, {
+  "channelNum": 653,
+  "channelName": "永川生活频道"
+}, {
+  "channelNum": 654,
+  "channelName": "荣昌综合频道"
+}, {
+  "channelNum": 655,
+  "channelName": "荣昌文化生活"
+}, {
+  "channelNum": 700,
+  "channelName": "湖南国际频道"
+}, {
+  "channelNum": 702,
+  "channelName": "湖南电视剧频道"
+}, {
+  "channelNum": 703,
+  "channelName": "湖南娱乐频道"
+}, {
+  "channelNum": 704,
+  "channelName": "湖南公共频道"
+}, {
+  "channelNum": 705,
+  "channelName": "湖南经视频道"
+}, {
+  "channelNum": 707,
+  "channelName": "湖南都市频道"
+}, {
+  "channelNum": 708,
+  "channelName": "湖南电影频道"
+}, {
+  "channelNum": 710,
+  "channelName": "长沙新闻频道"
+}, {
+  "channelNum": 711,
+  "channelName": "长沙政法频道"
+}, {
+  "channelNum": 715,
+  "channelName": "长沙女性频道"
+}, {
+  "channelNum": 723,
+  "channelName": "株洲新闻综合"
+}, {
+  "channelNum": 725,
+  "channelName": "株洲公共法制"
+}, {
+  "channelNum": 726,
+  "channelName": "株洲商务频道"
+}, {
+  "channelNum": 731,
+  "channelName": "益阳新闻综合"
+}, {
+  "channelNum": 732,
+  "channelName": "益阳公共频道"
+}, {
+  "channelNum": 733,
+  "channelName": "益阳教育频道"
+}, {
+  "channelNum": 734,
+  "channelName": "湘潭新闻综合"
+}, {
+  "channelNum": 735,
+  "channelName": "湘潭公共频道"
+}, {
+  "channelNum": 737,
+  "channelName": "桂阳新闻综合"
+}, {
+  "channelNum": 738,
+  "channelName": "桂阳经济生活"
+}, {
+  "channelNum": 739,
+  "channelName": "怀化新闻·综合"
+}, {
+  "channelNum": 740,
+  "channelName": "怀化经济频道"
+}, {
+  "channelNum": 741,
+  "channelName": "怀化文化·旅游"
+}, {
+  "channelNum": 744,
+  "channelName": "常德新闻频道"
+}, {
+  "channelNum": 745,
+  "channelName": "常德公共频道"
+}, {
+  "channelNum": 747,
+  "channelName": "常德武陵频道"
+}, {
+  "channelNum": 748,
+  "channelName": "娄底综合频道"
+}, {
+  "channelNum": 749,
+  "channelName": "娄底公共频道"
+}, {
+  "channelNum": 755,
+  "channelName": "郴州新闻·综合"
+}, {
+  "channelNum": 756,
+  "channelName": "郴州公共·都市"
+}, {
+  "channelNum": 766,
+  "channelName": "南县综合频道"
+}, {
+  "channelNum": 802,
+  "channelName": "浙江钱江频道"
+}, {
+  "channelNum": 803,
+  "channelName": "浙江经济生活"
+}, {
+  "channelNum": 804,
+  "channelName": "浙江科教频道"
+}, {
+  "channelNum": 805,
+  "channelName": "浙江影视娱乐"
+}, {
+  "channelNum": 806,
+  "channelName": "浙江民生频道"
+}, {
+  "channelNum": 807,
+  "channelName": "浙江公共·新闻"
+}, {
+  "channelNum": 808,
+  "channelName": "浙江少儿频道"
+}, {
+  "channelNum": 812,
+  "channelName": "杭州综合频道"
+}, {
+  "channelNum": 813,
+  "channelName": "杭州明珠频道"
+}, {
+  "channelNum": 814,
+  "channelName": "杭州生活频道"
+}, {
+  "channelNum": 815,
+  "channelName": "杭州影视频道"
+}, {
+  "channelNum": 816,
+  "channelName": "杭州少儿频道"
+}, {
+  "channelNum": 820,
+  "channelName": "宁波新闻综合"
+}, {
+  "channelNum": 821,
+  "channelName": "宁波社会生活"
+}, {
+  "channelNum": 822,
+  "channelName": "宁波文化娱乐"
+}, {
+  "channelNum": 823,
+  "channelName": "宁波影视频道"
+}, {
+  "channelNum": 824,
+  "channelName": "宁波少儿频道"
+}, {
+  "channelNum": 826,
+  "channelName": "绍兴新闻综合"
+}, {
+  "channelNum": 827,
+  "channelName": "绍兴公共频道"
+}, {
+  "channelNum": 828,
+  "channelName": "绍兴影视娱乐"
+}, {
+  "channelNum": 830,
+  "channelName": "义乌新闻综合"
+}, {
+  "channelNum": 831,
+  "channelName": "义乌商贸频道"
+}, {
+  "channelNum": 832,
+  "channelName": "义乌公共文艺"
+}, {
+  "channelNum": 834,
+  "channelName": "台州新闻综合"
+}, {
+  "channelNum": 838,
+  "channelName": "金华新闻综合"
+}, {
+  "channelNum": 839,
+  "channelName": "金华教育科技"
+}, {
+  "channelNum": 840,
+  "channelName": "金华公共频道"
+}, {
+  "channelNum": 841,
+  "channelName": "金华都市·农村"
+}, {
+  "channelNum": 842,
+  "channelName": "舟山新闻综合"
+}, {
+  "channelNum": 843,
+  "channelName": "舟山公共生活"
+}, {
+  "channelNum": 844,
+  "channelName": "舟山群岛旅游"
+}, {
+  "channelNum": 846,
+  "channelName": "温州新闻综合"
+}, {
+  "channelNum": 847,
+  "channelName": "温州经济科教"
+}, {
+  "channelNum": 848,
+  "channelName": "温州都市生活"
+}, {
+  "channelNum": 849,
+  "channelName": "温州公共频道"
+}, {
+  "channelNum": 850,
+  "channelName": "温州瓯江先锋"
+}, {
+  "channelNum": 851,
+  "channelName": "平湖新闻综合"
+}, {
+  "channelNum": 852,
+  "channelName": "平湖民生休闲"
+}, {
+  "channelNum": 853,
+  "channelName": "平湖西瓜频道"
+}, {
+  "channelNum": 856,
+  "channelName": "兰溪新闻综合"
+}, {
+  "channelNum": 859,
+  "channelName": "湖州新闻综合"
+}, {
+  "channelNum": 860,
+  "channelName": "湖州公共民生"
+}, {
+  "channelNum": 861,
+  "channelName": "湖州文化娱乐"
+}, {
+  "channelNum": 862,
+  "channelName": "平阳新闻综合"
+}, {
+  "channelNum": 863,
+  "channelName": "平阳娱乐生活"
+}, {
+  "channelNum": 864,
+  "channelName": "新昌新闻综合"
+}, {
+  "channelNum": 865,
+  "channelName": "新昌休闲影视"
+}, {
+  "channelNum": 866,
+  "channelName": "鄞州一套"
+}, {
+  "channelNum": 867,
+  "channelName": "鄞州二套"
+}, {
+  "channelNum": 868,
+  "channelName": "海盐新闻综合"
+}, {
+  "channelNum": 872,
+  "channelName": "余姚新闻综合"
+}, {
+  "channelNum": 873,
+  "channelName": "余姚文化频道"
+}, {
+  "channelNum": 874,
+  "channelName": "余姚幸福生活"
+}, {
+  "channelNum": 875,
+  "channelName": "余杭综合频道"
+}, {
+  "channelNum": 876,
+  "channelName": "平安余杭"
+}, {
+  "channelNum": 877,
+  "channelName": "余杭E频道"
+}, {
+  "channelNum": 881,
+  "channelName": "奉化新闻综合"
+}, {
+  "channelNum": 882,
+  "channelName": "奉化生活娱乐"
+}, {
+  "channelNum": 883,
+  "channelName": "安吉新闻频道"
+}, {
+  "channelNum": 884,
+  "channelName": "安吉生活频道"
+}, {
+  "channelNum": 886,
+  "channelName": "德清新闻综合"
+}, {
+  "channelNum": 887,
+  "channelName": "德清文化生活"
+}, {
+  "channelNum": 888,
+  "channelName": "玉环新闻综合"
+}, {
+  "channelNum": 889,
+  "channelName": "玉环社会生活"
+}, {
+  "channelNum": 891,
+  "channelName": "海宁新闻综合"
+}, {
+  "channelNum": 892,
+  "channelName": "海宁生活服务"
+}, {
+  "channelNum": 896,
+  "channelName": "东阳新闻综合"
+}, {
+  "channelNum": 897,
+  "channelName": "东阳影视·生活"
+}, {
+  "channelNum": 8001,
+  "channelName": "丽水新闻综合"
+}, {
+  "channelNum": 8002,
+  "channelName": "丽水公共频道"
+}, {
+  "channelNum": 8003,
+  "channelName": "丽水文化休闲"
+}, {
+  "channelNum": 900,
+  "channelName": "江苏国际频道"
+}, {
+  "channelNum": 902,
+  "channelName": "江苏城市频道"
+}, {
+  "channelNum": 903,
+  "channelName": "江苏公共新闻"
+}, {
+  "channelNum": 904,
+  "channelName": "江苏体育休闲"
+}, {
+  "channelNum": 905,
+  "channelName": "江苏综艺频道"
+}, {
+  "channelNum": 906,
+  "channelName": "江苏影视频道"
+}, {
+  "channelNum": 907,
+  "channelName": "江苏教育频道"
+}, {
+  "channelNum": 908,
+  "channelName": "江苏学习频道"
+}, {
+  "channelNum": 912,
+  "channelName": "南京教科频道"
+}, {
+  "channelNum": 914,
+  "channelName": "南京生活频道"
+}, {
+  "channelNum": 915,
+  "channelName": "南京十八频道"
+}, {
+  "channelNum": 916,
+  "channelName": "南京少儿频道"
+}, {
+  "channelNum": 917,
+  "channelName": "南京信息频道"
+}, {
+  "channelNum": 918,
+  "channelName": "无锡新闻综合"
+}, {
+  "channelNum": 919,
+  "channelName": "无锡娱乐频道"
+}, {
+  "channelNum": 920,
+  "channelName": "无锡都市资讯"
+}, {
+  "channelNum": 921,
+  "channelName": "无锡生活频道"
+}, {
+  "channelNum": 922,
+  "channelName": "无锡经济频道"
+}, {
+  "channelNum": 923,
+  "channelName": "无锡教育台"
+}, {
+  "channelNum": 924,
+  "channelName": "东台二套"
+}, {
+  "channelNum": 925,
+  "channelName": "常州新闻综合"
+}, {
+  "channelNum": 926,
+  "channelName": "常州生活频道"
+}, {
+  "channelNum": 927,
+  "channelName": "常州都市频道"
+}, {
+  "channelNum": 928,
+  "channelName": "常州公共频道"
+}, {
+  "channelNum": 929,
+  "channelName": "句容新闻综合"
+}, {
+  "channelNum": 930,
+  "channelName": "句容生活频道"
+}, {
+  "channelNum": 931,
+  "channelName": "句容影视频道"
+}, {
+  "channelNum": 932,
+  "channelName": "句容党建频道"
+}, {
+  "channelNum": 933,
+  "channelName": "南通综合频道"
+}, {
+  "channelNum": 934,
+  "channelName": "南通信息频道"
+}, {
+  "channelNum": 935,
+  "channelName": "南通生活频道"
+}, {
+  "channelNum": 936,
+  "channelName": "如东新闻综合"
+}, {
+  "channelNum": 937,
+  "channelName": "如东生活服务"
+}, {
+  "channelNum": 940,
+  "channelName": "盐城新闻频道"
+}, {
+  "channelNum": 941,
+  "channelName": "盐城法制频道"
+}, {
+  "channelNum": 942,
+  "channelName": "盐城城市频道"
+}, {
+  "channelNum": 943,
+  "channelName": "盐城七一健康"
+}, {
+  "channelNum": 945,
+  "channelName": "扬州新闻频道"
+}, {
+  "channelNum": 946,
+  "channelName": "扬州城市频道"
+}, {
+  "channelNum": 947,
+  "channelName": "扬州生活频道"
+}, {
+  "channelNum": 948,
+  "channelName": "扬州江都频道"
+}, {
+  "channelNum": 949,
+  "channelName": "扬州邗江频道"
+}, {
+  "channelNum": 950,
+  "channelName": "泰州新闻综合"
+}, {
+  "channelNum": 951,
+  "channelName": "泰州经济生活"
+}, {
+  "channelNum": 952,
+  "channelName": "泰州影视娱乐"
+}, {
+  "channelNum": 953,
+  "channelName": "徐州新闻综合"
+}, {
+  "channelNum": 954,
+  "channelName": "徐州经济生活"
+}, {
+  "channelNum": 955,
+  "channelName": "徐州文艺影视"
+}, {
+  "channelNum": 956,
+  "channelName": "徐州公共频道"
+}, {
+  "channelNum": 957,
+  "channelName": "苏州新闻综合"
+}, {
+  "channelNum": 958,
+  "channelName": "苏州社会经济"
+}, {
+  "channelNum": 959,
+  "channelName": "苏州文化生活"
+}, {
+  "channelNum": 960,
+  "channelName": "苏州生活资讯"
+}, {
+  "channelNum": 961,
+  "channelName": "淮安新闻综合"
+}, {
+  "channelNum": 962,
+  "channelName": "淮安公共频道"
+}, {
+  "channelNum": 964,
+  "channelName": "淮安影视娱乐"
+}, {
+  "channelNum": 971,
+  "channelName": "江阴新闻综合"
+}, {
+  "channelNum": 972,
+  "channelName": "江阴民生频道"
+}, {
+  "channelNum": 974,
+  "channelName": "连云港新闻综合"
+}, {
+  "channelNum": 975,
+  "channelName": "连云港城市公共"
+}, {
+  "channelNum": 977,
+  "channelName": "邳州综合频道"
+}, {
+  "channelNum": 978,
+  "channelName": "邳州综艺频道"
+}, {
+  "channelNum": 981,
+  "channelName": "大丰新闻综合"
+}, {
+  "channelNum": 982,
+  "channelName": "大丰生活综艺"
+}, {
+  "channelNum": 983,
+  "channelName": "大丰影视频道"
+}, {
+  "channelNum": 984,
+  "channelName": "吴江新闻综合"
+}, {
+  "channelNum": 986,
+  "channelName": "镇江新闻频道"
+}, {
+  "channelNum": 987,
+  "channelName": "镇江民生频道"
+}, {
+  "channelNum": 988,
+  "channelName": "镇江城市资讯"
+}, {
+  "channelNum": 989,
+  "channelName": "昆山新闻综合"
+}, {
+  "channelNum": 994,
+  "channelName": "新沂新闻频道"
+}, {
+  "channelNum": 995,
+  "channelName": "新沂生活频道"
+}, {
+  "channelNum": 998,
+  "channelName": "镇江新闻综合"
+}, {
+  "channelNum": 999,
+  "channelName": "靖江新闻综合"
+}, {
+  "channelNum": 1000,
+  "channelName": "山东国际频道"
+}, {
+  "channelNum": 1001,
+  "channelName": "山东齐鲁频道"
+}, {
+  "channelNum": 1002,
+  "channelName": "山东体育频道"
+}, {
+  "channelNum": 1003,
+  "channelName": "山东综艺频道"
+}, {
+  "channelNum": 1004,
+  "channelName": "山东影视频道"
+}, {
+  "channelNum": 1005,
+  "channelName": "山东生活频道"
+}, {
+  "channelNum": 1006,
+  "channelName": "山东公共频道"
+}, {
+  "channelNum": 1007,
+  "channelName": "山东农科频道"
+}, {
+  "channelNum": 1008,
+  "channelName": "山东少儿频道"
+}, {
+  "channelNum": 1010,
+  "channelName": "山东教育频道"
+}, {
+  "channelNum": 1011,
+  "channelName": "济南新闻频道"
+}, {
+  "channelNum": 1012,
+  "channelName": "济南都市频道"
+}, {
+  "channelNum": 1013,
+  "channelName": "济南影视频道"
+}, {
+  "channelNum": 1014,
+  "channelName": "济南娱乐频道"
+}, {
+  "channelNum": 1015,
+  "channelName": "济南生活频道"
+}, {
+  "channelNum": 1016,
+  "channelName": "济南商务频道"
+}, {
+  "channelNum": 1017,
+  "channelName": "济南少儿频道"
+}, {
+  "channelNum": 1018,
+  "channelName": "青岛综合频道"
+}, {
+  "channelNum": 1019,
+  "channelName": "青岛生活服务"
+}, {
+  "channelNum": 1020,
+  "channelName": "青岛影视频道"
+}, {
+  "channelNum": 1021,
+  "channelName": "青岛财经资讯"
+}, {
+  "channelNum": 1022,
+  "channelName": "青岛都市频道"
+}, {
+  "channelNum": 1023,
+  "channelName": "青岛青少旅游"
+}, {
+  "channelNum": 1025,
+  "channelName": "烟台新闻综合"
+}, {
+  "channelNum": 1026,
+  "channelName": "烟台公共频道"
+}, {
+  "channelNum": 1027,
+  "channelName": "烟台影视频道"
+}, {
+  "channelNum": 1028,
+  "channelName": "烟台生活频道"
+}, {
+  "channelNum": 1029,
+  "channelName": "新泰新闻综合"
+}, {
+  "channelNum": 1030,
+  "channelName": "新泰乡村党建"
+}, {
+  "channelNum": 1031,
+  "channelName": "新泰生活频道"
+}, {
+  "channelNum": 1032,
+  "channelName": "新泰影视频道"
+}, {
+  "channelNum": 1033,
+  "channelName": "东营新闻综合"
+}, {
+  "channelNum": 1034,
+  "channelName": "东营公共频道"
+}, {
+  "channelNum": 1035,
+  "channelName": "东营科教频道"
+}, {
+  "channelNum": 1036,
+  "channelName": "黄岛新闻频道"
+}, {
+  "channelNum": 1037,
+  "channelName": "日照新闻综合"
+}, {
+  "channelNum": 1038,
+  "channelName": "日照公共频道"
+}, {
+  "channelNum": 1039,
+  "channelName": "日照科教频道"
+}, {
+  "channelNum": 1040,
+  "channelName": "日照图文频道"
+}, {
+  "channelNum": 1041,
+  "channelName": "莱芜综合频道"
+}, {
+  "channelNum": 1042,
+  "channelName": "莱芜科教频道"
+}, {
+  "channelNum": 1044,
+  "channelName": "无棣综合频道"
+}, {
+  "channelNum": 1045,
+  "channelName": "无棣综艺频道"
+}, {
+  "channelNum": 1046,
+  "channelName": "枣庄新闻综合"
+}, {
+  "channelNum": 1047,
+  "channelName": "枣庄教育频道"
+}, {
+  "channelNum": 1048,
+  "channelName": "枣庄公共频道"
+}, {
+  "channelNum": 1055,
+  "channelName": "乐陵新闻频道"
+}, {
+  "channelNum": 1056,
+  "channelName": "乐陵党建频道"
+}, {
+  "channelNum": 1057,
+  "channelName": "乐陵生活频道"
+}, {
+  "channelNum": 1058,
+  "channelName": "福山综合频道"
+}, {
+  "channelNum": 1059,
+  "channelName": "福山生活频道"
+}, {
+  "channelNum": 1060,
+  "channelName": "福山影视频道"
+}, {
+  "channelNum": 1066,
+  "channelName": "莒县一台"
+}, {
+  "channelNum": 1067,
+  "channelName": "莒县二台"
+}, {
+  "channelNum": 1068,
+  "channelName": "莒县三台"
+}, {
+  "channelNum": 1069,
+  "channelName": "邹平新闻频道"
+}, {
+  "channelNum": 1070,
+  "channelName": "邹平民生频道"
+}, {
+  "channelNum": 1082,
+  "channelName": "济宁新闻综合"
+}, {
+  "channelNum": 1083,
+  "channelName": "济宁生活频道"
+}, {
+  "channelNum": 1084,
+  "channelName": "济宁影视频道"
+}, {
+  "channelNum": 1085,
+  "channelName": "济宁都市频道"
+}, {
+  "channelNum": 1086,
+  "channelName": "济宁党建频道"
+}, {
+  "channelNum": 1087,
+  "channelName": "菏泽新闻综合"
+}, {
+  "channelNum": 1088,
+  "channelName": "菏泽经济生活"
+}, {
+  "channelNum": 1089,
+  "channelName": "菏泽影视频道"
+}, {
+  "channelNum": 1091,
+  "channelName": "德州新闻频道"
+}, {
+  "channelNum": 1092,
+  "channelName": "德州图文频道"
+}, {
+  "channelNum": 1093,
+  "channelName": "德州公共频道"
+}, {
+  "channelNum": 1094,
+  "channelName": "德州都市频道"
+}, {
+  "channelNum": 1095,
+  "channelName": "章丘新闻综合"
+}, {
+  "channelNum": 1096,
+  "channelName": "章丘生活综艺"
+}, {
+  "channelNum": 1097,
+  "channelName": "章丘农科民生"
+}, {
+  "channelNum": 10104,
+  "channelName": "潍坊新闻综合"
+}, {
+  "channelNum": 10105,
+  "channelName": "潍坊农业频道"
+}, {
+  "channelNum": 10106,
+  "channelName": "潍坊公共频道"
+}, {
+  "channelNum": 10107,
+  "channelName": "潍坊科教频道"
+}, {
+  "channelNum": 1100,
+  "channelName": "广东国际频道"
+}, {
+  "channelNum": 1101,
+  "channelName": "广东珠江卫视"
+}, {
+  "channelNum": 1102,
+  "channelName": "广东南方卫视"
+}, {
+  "channelNum": 1104,
+  "channelName": "广东新闻频道"
+}, {
+  "channelNum": 1105,
+  "channelName": "广东公共频道"
+}, {
+  "channelNum": 1106,
+  "channelName": "广东体育频道"
+}, {
+  "channelNum": 1107,
+  "channelName": "广东经济科教"
+}, {
+  "channelNum": 1108,
+  "channelName": "广东综艺频道"
+}, {
+  "channelNum": 1109,
+  "channelName": "广东影视频道"
+}, {
+  "channelNum": 1110,
+  "channelName": "广东少儿频道"
+}, {
+  "channelNum": 1111,
+  "channelName": "广东现代教育"
+}, {
+  "channelNum": 1112,
+  "channelName": "广东房产频道"
+}, {
+  "channelNum": 1113,
+  "channelName": "广东会展频道"
+}, {
+  "channelNum": 1114,
+  "channelName": "广东移动电视"
+}, {
+  "channelNum": 1115,
+  "channelName": "广东岭南戏曲"
+}, {
+  "channelNum": 1119,
+  "channelName": "深圳都市频道"
+}, {
+  "channelNum": 1120,
+  "channelName": "深圳电视剧频道"
+}, {
+  "channelNum": 1121,
+  "channelName": "深圳体育健康"
+}, {
+  "channelNum": 1122,
+  "channelName": "深圳财经生活"
+}, {
+  "channelNum": 1123,
+  "channelName": "深圳娱乐频道"
+}, {
+  "channelNum": 1124,
+  "channelName": "深圳公共频道"
+}, {
+  "channelNum": 1125,
+  "channelName": "深圳少儿频道"
+}, {
+  "channelNum": 1127,
+  "channelName": "深圳DV生活"
+}, {
+  "channelNum": 1130,
+  "channelName": "深圳国际频道"
+}, {
+  "channelNum": 1131,
+  "channelName": "广州综合频道"
+}, {
+  "channelNum": 1133,
+  "channelName": "广州影视频道"
+}, {
+  "channelNum": 1135,
+  "channelName": "广州经济频道"
+}, {
+  "channelNum": 1136,
+  "channelName": "广州少儿频道"
+}, {
+  "channelNum": 1139,
+  "channelName": "东莞一套"
+}, {
+  "channelNum": 1140,
+  "channelName": "东莞二套"
+}, {
+  "channelNum": 1141,
+  "channelName": "惠州一套"
+}, {
+  "channelNum": 1142,
+  "channelName": "惠州二套"
+}, {
+  "channelNum": 1143,
+  "channelName": "佛山综合频道"
+}, {
+  "channelNum": 1146,
+  "channelName": "汕头新闻综合"
+}, {
+  "channelNum": 1147,
+  "channelName": "汕头经济生活"
+}, {
+  "channelNum": 1148,
+  "channelName": "汕头影视文艺"
+}, {
+  "channelNum": 1151,
+  "channelName": "珠海新闻频道"
+}, {
+  "channelNum": 1152,
+  "channelName": "珠海生活频道"
+}, {
+  "channelNum": 1153,
+  "channelName": "江门综合频道"
+}, {
+  "channelNum": 1154,
+  "channelName": "江门公共频道"
+}, {
+  "channelNum": 1155,
+  "channelName": "江门教育频道"
+}, {
+  "channelNum": 1157,
+  "channelName": "清远综合频道"
+}, {
+  "channelNum": 1158,
+  "channelName": "清远公共频道"
+}, {
+  "channelNum": 1159,
+  "channelName": "韶关综合频道"
+}, {
+  "channelNum": 1160,
+  "channelName": "韶关公共频道"
+}, {
+  "channelNum": 1161,
+  "channelName": "潮州综合频道"
+}, {
+  "channelNum": 1162,
+  "channelName": "潮州公共频道"
+}, {
+  "channelNum": 1163,
+  "channelName": "蛇口电视台"
+}, {
+  "channelNum": 1171,
+  "channelName": "中山综合频道"
+}, {
+  "channelNum": 1172,
+  "channelName": "中山公共频道"
+}, {
+  "channelNum": 1173,
+  "channelName": "中山教育频道"
+}, {
+  "channelNum": 1174,
+  "channelName": "茂名综合频道"
+}, {
+  "channelNum": 1175,
+  "channelName": "茂名公共频道"
+}, {
+  "channelNum": 1184,
+  "channelName": "台山台"
+}, {
+  "channelNum": 1189,
+  "channelName": "阳江综合频道"
+}, {
+  "channelNum": 1190,
+  "channelName": "阳江公共频道"
+}, {
+  "channelNum": 1200,
+  "channelName": "安徽国际频道"
+}, {
+  "channelNum": 1202,
+  "channelName": "安徽影视频道"
+}, {
+  "channelNum": 1203,
+  "channelName": "安徽经济生活"
+}, {
+  "channelNum": 1204,
+  "channelName": "安徽综艺频道"
+}, {
+  "channelNum": 1205,
+  "channelName": "安徽科教频道"
+}, {
+  "channelNum": 1206,
+  "channelName": "安徽公共频道"
+}, {
+  "channelNum": 1207,
+  "channelName": "安徽移动电视"
+}, {
+  "channelNum": 1210,
+  "channelName": "芜湖新闻综合"
+}, {
+  "channelNum": 1211,
+  "channelName": "芜湖生活频道"
+}, {
+  "channelNum": 1212,
+  "channelName": "芜湖公共徽商"
+}, {
+  "channelNum": 1213,
+  "channelName": "芜湖教育频道"
+}, {
+  "channelNum": 1214,
+  "channelName": "合肥新闻频道"
+}, {
+  "channelNum": 1215,
+  "channelName": "合肥生活频道"
+}, {
+  "channelNum": 1216,
+  "channelName": "合肥财经频道"
+}, {
+  "channelNum": 1217,
+  "channelName": "合肥教育法制"
+}, {
+  "channelNum": 1218,
+  "channelName": "合肥文体博览"
+}, {
+  "channelNum": 1219,
+  "channelName": "合肥影院"
+}, {
+  "channelNum": 1220,
+  "channelName": "合肥故事休闲"
+}, {
+  "channelNum": 1221,
+  "channelName": "蚌埠新闻综合"
+}, {
+  "channelNum": 1222,
+  "channelName": "蚌埠生活频道"
+}, {
+  "channelNum": 1223,
+  "channelName": "蚌埠公共频道"
+}, {
+  "channelNum": 1224,
+  "channelName": "蚌埠文教频道"
+}, {
+  "channelNum": 1225,
+  "channelName": "蚌埠公交频道"
+}, {
+  "channelNum": 1234,
+  "channelName": "铜陵新闻频道"
+}, {
+  "channelNum": 1235,
+  "channelName": "铜陵公共频道"
+}, {
+  "channelNum": 1236,
+  "channelName": "铜陵科教频道"
+}, {
+  "channelNum": 1241,
+  "channelName": "淮北新闻综合"
+}, {
+  "channelNum": 1242,
+  "channelName": "淮北公共频道"
+}, {
+  "channelNum": 1243,
+  "channelName": "淮北教育频道"
+}, {
+  "channelNum": 1244,
+  "channelName": "淮北都市频道"
+}, {
+  "channelNum": 1246,
+  "channelName": "池州新闻综合"
+}, {
+  "channelNum": 1247,
+  "channelName": "池州公共频道"
+}, {
+  "channelNum": 1253,
+  "channelName": "亳州新闻综合"
+}, {
+  "channelNum": 1254,
+  "channelName": "毫州农村频道"
+}, {
+  "channelNum": 1255,
+  "channelName": "毫州都市频道"
+}, {
+  "channelNum": 1256,
+  "channelName": "马鞍山新闻综合"
+}, {
+  "channelNum": 1257,
+  "channelName": "马鞍山公共频道"
+}, {
+  "channelNum": 1258,
+  "channelName": "马鞍山影视频道"
+}, {
+  "channelNum": 1261,
+  "channelName": "滁州新闻综合"
+}, {
+  "channelNum": 1262,
+  "channelName": "滁州科教频道"
+}, {
+  "channelNum": 1263,
+  "channelName": "滁州公共频道"
+}, {
+  "channelNum": 1264,
+  "channelName": "安庆公共频道"
+}, {
+  "channelNum": 1265,
+  "channelName": "黄梅戏频道"
+}, {
+  "channelNum": 1267,
+  "channelName": "涡阳综合频道"
+}, {
+  "channelNum": 1268,
+  "channelName": "黄山新闻综合"
+}, {
+  "channelNum": 1269,
+  "channelName": "黄山公共生活"
+}, {
+  "channelNum": 1270,
+  "channelName": "阜南新闻综合"
+}, {
+  "channelNum": 1271,
+  "channelName": "含山综合频道"
+}, {
+  "channelNum": 1272,
+  "channelName": "含山影视频道"
+}, {
+  "channelNum": 1273,
+  "channelName": "霍山综合频道"
+}, {
+  "channelNum": 1276,
+  "channelName": "潜山新闻综合"
+}, {
+  "channelNum": 1277,
+  "channelName": "六安新闻综合"
+}, {
+  "channelNum": 1278,
+  "channelName": "六安公共频道"
+}, {
+  "channelNum": 1281,
+  "channelName": "蒙城新闻频道"
+}, {
+  "channelNum": 1302,
+  "channelName": "四川文化旅游"
+}, {
+  "channelNum": 1303,
+  "channelName": "四川经视频道"
+}, {
+  "channelNum": 1304,
+  "channelName": "四川新闻资讯"
+}, {
+  "channelNum": 1305,
+  "channelName": "四川影视文艺"
+}, {
+  "channelNum": 1307,
+  "channelName": "四川妇女儿童"
+}, {
+  "channelNum": 1309,
+  "channelName": "四川公共频道"
+}, {
+  "channelNum": 1310,
+  "channelName": "峨眉电影频道"
+}, {
+  "channelNum": 1312,
+  "channelName": "成都新闻频道"
+}, {
+  "channelNum": 1313,
+  "channelName": "成都经济频道"
+}, {
+  "channelNum": 1314,
+  "channelName": "成都都市频道"
+}, {
+  "channelNum": 1315,
+  "channelName": "成都生活频道"
+}, {
+  "channelNum": 1316,
+  "channelName": "成都公共频道"
+}, {
+  "channelNum": 1317,
+  "channelName": "成都少儿频道"
+}, {
+  "channelNum": 1321,
+  "channelName": "绵阳新闻时政综合"
+}, {
+  "channelNum": 1322,
+  "channelName": "绵阳公共频道"
+}, {
+  "channelNum": 1323,
+  "channelName": "绵阳科技频道"
+}, {
+  "channelNum": 1324,
+  "channelName": "绵阳教育资讯"
+}, {
+  "channelNum": 1325,
+  "channelName": "绵阳新农村信息"
+}, {
+  "channelNum": 1326,
+  "channelName": "绵阳信息服务"
+}, {
+  "channelNum": 1327,
+  "channelName": "文化绵阳"
+}, {
+  "channelNum": 1328,
+  "channelName": "绵阳交通信息"
+}, {
+  "channelNum": 1329,
+  "channelName": "绵阳党员教育"
+}, {
+  "channelNum": 1331,
+  "channelName": "南充综合频道"
+}, {
+  "channelNum": 1332,
+  "channelName": "南充公共频道"
+}, {
+  "channelNum": 10060,
+  "channelName": "时尚精品汇"
+}, {
+  "channelNum": 1333,
+  "channelName": "南充科教频道"
+}, {
+  "channelNum": 1334,
+  "channelName": "南充资讯频道"
+}, {
+  "channelNum": 1335,
+  "channelName": "南充文娱频道"
+}, {
+  "channelNum": 1336,
+  "channelName": "遂宁新闻综合"
+}, {
+  "channelNum": 1337,
+  "channelName": "遂宁公共公益"
+}, {
+  "channelNum": 1338,
+  "channelName": "遂宁测试频道"
+}, {
+  "channelNum": 1339,
+  "channelName": "甘孜新闻综合"
+}, {
+  "channelNum": 1345,
+  "channelName": "雅安新闻综合"
+}, {
+  "channelNum": 1346,
+  "channelName": "雅安公共频道"
+}, {
+  "channelNum": 1348,
+  "channelName": "雅安雨城频道"
+}, {
+  "channelNum": 1349,
+  "channelName": "都江堰新闻综合"
+}, {
+  "channelNum": 1350,
+  "channelName": "渠县综合频道"
+}, {
+  "channelNum": 1351,
+  "channelName": "广元综合频道"
+}, {
+  "channelNum": 1352,
+  "channelName": "广元公共频道"
+}, {
+  "channelNum": 1353,
+  "channelName": "广元影视频道"
+}, {
+  "channelNum": 1354,
+  "channelName": "广元科教频道"
+}, {
+  "channelNum": 1355,
+  "channelName": "达州新闻综合"
+}, {
+  "channelNum": 1356,
+  "channelName": "达州公共频道"
+}, {
+  "channelNum": 1357,
+  "channelName": "达州城市公众"
+}, {
+  "channelNum": 1358,
+  "channelName": "达州通川频道"
+}, {
+  "channelNum": 1359,
+  "channelName": "泸州新闻综合"
+}, {
+  "channelNum": 1360,
+  "channelName": "泸州公共频道"
+}, {
+  "channelNum": 1361,
+  "channelName": "泸州科教频道"
+}, {
+  "channelNum": 1363,
+  "channelName": "宜宾新闻综合"
+}, {
+  "channelNum": 1364,
+  "channelName": "宜宾公共频道"
+}, {
+  "channelNum": 1370,
+  "channelName": "西昌综合频道"
+}, {
+  "channelNum": 1371,
+  "channelName": "阳光西昌频道"
+}, {
+  "channelNum": 1372,
+  "channelName": "德阳新闻频道"
+}, {
+  "channelNum": 1373,
+  "channelName": "德阳公共频道"
+}, {
+  "channelNum": 1374,
+  "channelName": "自贡综合频道"
+}, {
+  "channelNum": 1375,
+  "channelName": "自贡公共频道"
+}, {
+  "channelNum": 1376,
+  "channelName": "温江综合频道"
+}, {
+  "channelNum": 1377,
+  "channelName": "洪雅新闻综合"
+}, {
+  "channelNum": 1381,
+  "channelName": "江油新闻频道"
+}, {
+  "channelNum": 1382,
+  "channelName": "江油文教(测试)"
+}, {
+  "channelNum": 1383,
+  "channelName": "攀枝花新闻综合"
+}, {
+  "channelNum": 1384,
+  "channelName": "攀枝花公共频道"
+}, {
+  "channelNum": 1388,
+  "channelName": "眉山综合频道"
+}, {
+  "channelNum": 1390,
+  "channelName": "眉山公共频道"
+}, {
+  "channelNum": 1391,
+  "channelName": "眉山高清(试播)"
+}, {
+  "channelNum": 1392,
+  "channelName": "乐山新闻综合"
+}, {
+  "channelNum": 1393,
+  "channelName": "乐山公共·新农村"
+}, {
+  "channelNum": 1394,
+  "channelName": "马边电视台"
+}, {
+  "channelNum": 1396,
+  "channelName": "键为新闻综合"
+}, {
+  "channelNum": 1397,
+  "channelName": "双流综合频道"
+}, {
+  "channelNum": 1398,
+  "channelName": "九寨沟新闻综合"
+}, {
+  "channelNum": 1399,
+  "channelName": "九寨沟旅游资讯"
+}, {
+  "channelNum": 1401,
+  "channelName": "陕西新闻资讯"
+}, {
+  "channelNum": 1402,
+  "channelName": "陕西都市青春"
+}, {
+  "channelNum": 1403,
+  "channelName": "陕西生活频道"
+}, {
+  "channelNum": 1404,
+  "channelName": "陕西公共频道"
+}, {
+  "channelNum": 1405,
+  "channelName": "陕西体育休闲"
+}, {
+  "channelNum": 1408,
+  "channelName": "西安新闻综合"
+}, {
+  "channelNum": 1409,
+  "channelName": "西安白鸽都市"
+}, {
+  "channelNum": 1410,
+  "channelName": "西安商务资讯"
+}, {
+  "channelNum": 1411,
+  "channelName": "西安文化影视"
+}, {
+  "channelNum": 1412,
+  "channelName": "西安丝路频道"
+}, {
+  "channelNum": 1415,
+  "channelName": "榆林一套"
+}, {
+  "channelNum": 1416,
+  "channelName": "榆林二套"
+}, {
+  "channelNum": 1417,
+  "channelName": "榆林三套"
+}, {
+  "channelNum": 1425,
+  "channelName": "安康新闻综合"
+}, {
+  "channelNum": 1427,
+  "channelName": "咸阳一套"
+}, {
+  "channelNum": 1428,
+  "channelName": "咸阳二套"
+}, {
+  "channelNum": 1429,
+  "channelName": "咸阳三套"
+}, {
+  "channelNum": 1501,
+  "channelName": "山西经济资讯"
+}, {
+  "channelNum": 1502,
+  "channelName": "山西影视频道"
+}, {
+  "channelNum": 1503,
+  "channelName": "山西科教频道"
+}, {
+  "channelNum": 1504,
+  "channelName": "山西公共频道"
+}, {
+  "channelNum": 1505,
+  "channelName": "山西少儿频道"
+}, {
+  "channelNum": 1507,
+  "channelName": "太原新闻频道"
+}, {
+  "channelNum": 1508,
+  "channelName": "太原百姓频道"
+}, {
+  "channelNum": 1509,
+  "channelName": "太原法制频道"
+}, {
+  "channelNum": 1510,
+  "channelName": "太原影视频道"
+}, {
+  "channelNum": 1511,
+  "channelName": "太原文体频道"
+}, {
+  "channelNum": 1512,
+  "channelName": "太原家庭消费"
+}, {
+  "channelNum": 1514,
+  "channelName": "山西黄河电视台"
+}, {
+  "channelNum": 1515,
+  "channelName": "中国黄河电视台"
+}, {
+  "channelNum": 1520,
+  "channelName": "阳泉新闻综合"
+}, {
+  "channelNum": 1521,
+  "channelName": "阳泉科教频道"
+}, {
+  "channelNum": 1522,
+  "channelName": "晴彩阳泉"
+}, {
+  "channelNum": 1525,
+  "channelName": "晋城新闻综合"
+}, {
+  "channelNum": 1526,
+  "channelName": "晋城公共频道"
+}, {
+  "channelNum": 1527,
+  "channelName": "晋城图文信息"
+}, {
+  "channelNum": 1528,
+  "channelName": "晋城导视频道"
+}, {
+  "channelNum": 1529,
+  "channelName": "晴彩晋城"
+}, {
+  "channelNum": 1531,
+  "channelName": "朔州新闻综合"
+}, {
+  "channelNum": 1532,
+  "channelName": "朔州生活公共"
+}, {
+  "channelNum": 1601,
+  "channelName": "湖北综合频道"
+}, {
+  "channelNum": 1602,
+  "channelName": "湖北经视频道"
+}, {
+  "channelNum": 1603,
+  "channelName": "湖北公共·新闻"
+}, {
+  "channelNum": 1605,
+  "channelName": "湖北影视频道"
+}, {
+  "channelNum": 1606,
+  "channelName": "湖北生活频道"
+}, {
+  "channelNum": 1607,
+  "channelName": "湖北教育频道"
+}, {
+  "channelNum": 1608,
+  "channelName": "湖北垄上频道"
+}, {
+  "channelNum": 1610,
+  "channelName": "武汉新闻综合"
+}, {
+  "channelNum": 1611,
+  "channelName": "武汉电视剧频道"
+}, {
+  "channelNum": 1612,
+  "channelName": "武汉科技生活"
+}, {
+  "channelNum": 1613,
+  "channelName": "武汉经济频道"
+}, {
+  "channelNum": 1614,
+  "channelName": "武汉文体频道"
+}, {
+  "channelNum": 1615,
+  "channelName": "武汉海外频道"
+}, {
+  "channelNum": 1616,
+  "channelName": "武汉少儿频道"
+}, {
+  "channelNum": 1617,
+  "channelName": "武汉教育电视台"
+}, {
+  "channelNum": 1631,
+  "channelName": "荆门新闻综合"
+}, {
+  "channelNum": 1632,
+  "channelName": "荆门公共频道"
+}, {
+  "channelNum": 1633,
+  "channelName": "荆门教育频道"
+}, {
+  "channelNum": 1634,
+  "channelName": "咸宁综合频道"
+}, {
+  "channelNum": 1636,
+  "channelName": "襄阳综合频道"
+}, {
+  "channelNum": 1637,
+  "channelName": "襄阳经济生活"
+}, {
+  "channelNum": 1638,
+  "channelName": "襄阳公共频道"
+}, {
+  "channelNum": 1641,
+  "channelName": "十堰新闻频道"
+}, {
+  "channelNum": 1642,
+  "channelName": "十堰公共频道"
+}, {
+  "channelNum": 1643,
+  "channelName": "十堰经济旅游"
+}, {
+  "channelNum": 1646,
+  "channelName": "汉南综合频道"
+}, {
+  "channelNum": 1647,
+  "channelName": "蔡甸综合频道"
+}, {
+  "channelNum": 1648,
+  "channelName": "蔡甸影视频道"
+}, {
+  "channelNum": 1649,
+  "channelName": "保康新闻综合"
+}, {
+  "channelNum": 1650,
+  "channelName": "保康文化旅游"
+}, {
+  "channelNum": 1658,
+  "channelName": "孝昌新闻党建"
+}, {
+  "channelNum": 1659,
+  "channelName": "孝昌生活频道"
+}, {
+  "channelNum": 1660,
+  "channelName": "黄石新闻综合"
+}, {
+  "channelNum": 1661,
+  "channelName": "黄石都市频道"
+}, {
+  "channelNum": 1662,
+  "channelName": "黄石公共频道"
+}, {
+  "channelNum": 1664,
+  "channelName": "黄冈新闻频道"
+}, {
+  "channelNum": 1665,
+  "channelName": "黄冈公共频道"
+}, {
+  "channelNum": 1667,
+  "channelName": "赤壁电视台-1"
+}, {
+  "channelNum": 1668,
+  "channelName": "赤壁电视台-2"
+}, {
+  "channelNum": 1669,
+  "channelName": "鄂州新闻综合"
+}, {
+  "channelNum": 1670,
+  "channelName": "鄂州公共频道"
+}, {
+  "channelNum": 1671,
+  "channelName": "恩施新闻综合"
+}, {
+  "channelNum": 1672,
+  "channelName": "恩施公共频道"
+}, {
+  "channelNum": 1673,
+  "channelName": "随州综合频道"
+}, {
+  "channelNum": 1674,
+  "channelName": "随州农村频道"
+}, {
+  "channelNum": 1676,
+  "channelName": "武穴综合频道"
+}, {
+  "channelNum": 1677,
+  "channelName": "武穴资讯频道"
+}, {
+  "channelNum": 1678,
+  "channelName": "大悟综合频道"
+}, {
+  "channelNum": 1679,
+  "channelName": "黄梅综合频道"
+}, {
+  "channelNum": 1680,
+  "channelName": "黄梅影视频道"
+}, {
+  "channelNum": 1683,
+  "channelName": "夷陵综合频道"
+}, {
+  "channelNum": 1684,
+  "channelName": "应城新闻综合"
+}, {
+  "channelNum": 1685,
+  "channelName": "应城党建频道"
+}, {
+  "channelNum": 1686,
+  "channelName": "秭归新闻·综合"
+}, {
+  "channelNum": 1687,
+  "channelName": "罗田综合频道"
+}, {
+  "channelNum": 1688,
+  "channelName": "罗田旅游频道"
+}, {
+  "channelNum": 1689,
+  "channelName": "蕲春综合频道"
+}, {
+  "channelNum": 1690,
+  "channelName": "蕲春旅游养生"
+}, {
+  "channelNum": 1691,
+  "channelName": "宜昌综合频道"
+}, {
+  "channelNum": 1692,
+  "channelName": "宜昌公共频道"
+}, {
+  "channelNum": 1693,
+  "channelName": "宜昌旅游生活"
+}, {
+  "channelNum": 1695,
+  "channelName": "兴山综合频道"
+}, {
+  "channelNum": 1696,
+  "channelName": "仙桃新闻综合"
+}, {
+  "channelNum": 1697,
+  "channelName": "仙桃生活文体"
+}, {
+  "channelNum": 1698,
+  "channelName": "云梦新闻综合"
+}, {
+  "channelNum": 1699,
+  "channelName": "云梦党建农业"
+}, {
+  "channelNum": 1701,
+  "channelName": "河北经济频道"
+}, {
+  "channelNum": 1702,
+  "channelName": "河北都市频道"
+}, {
+  "channelNum": 1704,
+  "channelName": "河北影视频道"
+}, {
+  "channelNum": 1705,
+  "channelName": "河北少儿科教"
+}, {
+  "channelNum": 1706,
+  "channelName": "河北公共频道"
+}, {
+  "channelNum": 1707,
+  "channelName": "河北农民频道"
+}, {
+  "channelNum": 1709,
+  "channelName": "石家庄新闻综合"
+}, {
+  "channelNum": 1710,
+  "channelName": "石家庄娱乐频道"
+}, {
+  "channelNum": 1711,
+  "channelName": "石家庄生活频道"
+}, {
+  "channelNum": 1712,
+  "channelName": "石家庄都市频道"
+}, {
+  "channelNum": 1715,
+  "channelName": "保定新闻频道"
+}, {
+  "channelNum": 1716,
+  "channelName": "保定都市频道"
+}, {
+  "channelNum": 1717,
+  "channelName": "保定娱乐频道"
+}, {
+  "channelNum": 1718,
+  "channelName": "邯郸新闻频道"
+}, {
+  "channelNum": 1719,
+  "channelName": "邯郸科教频道"
+}, {
+  "channelNum": 1720,
+  "channelName": "邯郸公共频道"
+}, {
+  "channelNum": 1721,
+  "channelName": "东光一套"
+}, {
+  "channelNum": 1722,
+  "channelName": "东光二套"
+}, {
+  "channelNum": 1723,
+  "channelName": "东光综艺"
+}, {
+  "channelNum": 1724,
+  "channelName": "衡水新闻综合"
+}, {
+  "channelNum": 1725,
+  "channelName": "衡水影视娱乐"
+}, {
+  "channelNum": 1726,
+  "channelName": "衡水公共频道"
+}, {
+  "channelNum": 1730,
+  "channelName": "廊坊新闻综合"
+}, {
+  "channelNum": 1731,
+  "channelName": "廊坊公共频道"
+}, {
+  "channelNum": 1733,
+  "channelName": "廊坊导视频道"
+}, {
+  "channelNum": 1734,
+  "channelName": "迁安新闻综合"
+}, {
+  "channelNum": 1735,
+  "channelName": "迁安生活服务"
+}, {
+  "channelNum": 1736,
+  "channelName": "迁安快乐3频道"
+}, {
+  "channelNum": 1737,
+  "channelName": "临城新闻频道"
+}, {
+  "channelNum": 1738,
+  "channelName": "临城生活频道"
+}, {
+  "channelNum": 1744,
+  "channelName": "张家口一台"
+}, {
+  "channelNum": 1747,
+  "channelName": "无极新闻综合"
+}, {
+  "channelNum": 1748,
+  "channelName": "无极生活教育"
+}, {
+  "channelNum": 1751,
+  "channelName": "沧州新闻综合"
+}, {
+  "channelNum": 1752,
+  "channelName": "沧州经济生活"
+}, {
+  "channelNum": 1753,
+  "channelName": "沧州影视娱乐"
+}, {
+  "channelNum": 1754,
+  "channelName": "成安综合频道"
+}, {
+  "channelNum": 1755,
+  "channelName": "成安经济民生"
+}, {
+  "channelNum": 1756,
+  "channelName": "成安快乐3频道"
+}, {
+  "channelNum": 1757,
+  "channelName": "成安百姓服务"
+}, {
+  "channelNum": 1758,
+  "channelName": "滦南新闻综合"
+}, {
+  "channelNum": 1759,
+  "channelName": "滦南影视娱乐"
+}, {
+  "channelNum": 1769,
+  "channelName": "磁县综合频道"
+}, {
+  "channelNum": 1770,
+  "channelName": "磁县生活娱乐"
+}, {
+  "channelNum": 1771,
+  "channelName": "磁县冀南新区"
+}, {
+  "channelNum": 1772,
+  "channelName": "冀州新闻综合"
+}, {
+  "channelNum": 1773,
+  "channelName": "冀州电视台"
+}, {
+  "channelNum": 1784,
+  "channelName": "景县一套"
+}, {
+  "channelNum": 1785,
+  "channelName": "景县二套"
+}, {
+  "channelNum": 1786,
+  "channelName": "冀州一套"
+}, {
+  "channelNum": 1787,
+  "channelName": "冀州二套"
+}, {
+  "channelNum": 1790,
+  "channelName": "黄骅TV-1"
+}, {
+  "channelNum": 1791,
+  "channelName": "黄骅TV-2"
+}, {
+  "channelNum": 1792,
+  "channelName": "黄骅影视频道"
+}, {
+  "channelNum": 1793,
+  "channelName": "黄骅渤海新区"
+}, {
+  "channelNum": 1796,
+  "channelName": "隆化综合频道"
+}, {
+  "channelNum": 1797,
+  "channelName": "隆化影视频道"
+}, {
+  "channelNum": 1801,
+  "channelName": "福建综合频道"
+}, {
+  "channelNum": 1802,
+  "channelName": "福建公共频道"
+}, {
+  "channelNum": 1803,
+  "channelName": "福建新闻频道"
+}, {
+  "channelNum": 1804,
+  "channelName": "福建电视剧频道"
+}, {
+  "channelNum": 1805,
+  "channelName": "福建旅游频道"
+}, {
+  "channelNum": 1806,
+  "channelName": "福建经济频道"
+}, {
+  "channelNum": 1807,
+  "channelName": "福建体育频道"
+}, {
+  "channelNum": 1808,
+  "channelName": "福建少儿频道"
+}, {
+  "channelNum": 1811,
+  "channelName": "厦门一套"
+}, {
+  "channelNum": 1812,
+  "channelName": "厦门二套"
+}, {
+  "channelNum": 1813,
+  "channelName": "厦门三套"
+}, {
+  "channelNum": 1814,
+  "channelName": "厦门四套"
+}, {
+  "channelNum": 1816,
+  "channelName": "厦门六套"
+}, {
+  "channelNum": 1817,
+  "channelName": "福州新闻频道"
+}, {
+  "channelNum": 1818,
+  "channelName": "福州影视频道"
+}, {
+  "channelNum": 1819,
+  "channelName": "福州生活频道"
+}, {
+  "channelNum": 1820,
+  "channelName": "福州少儿频道"
+}, {
+  "channelNum": 1821,
+  "channelName": "龙岩综合频道"
+}, {
+  "channelNum": 1822,
+  "channelName": "龙岩公共频道"
+}, {
+  "channelNum": 1823,
+  "channelName": "沙县一台"
+}, {
+  "channelNum": 1824,
+  "channelName": "沙县二台"
+}, {
+  "channelNum": 1827,
+  "channelName": "永安综合频道"
+}, {
+  "channelNum": 1828,
+  "channelName": "永安生活频道"
+}, {
+  "channelNum": 1829,
+  "channelName": "泉州一台"
+}, {
+  "channelNum": 1832,
+  "channelName": "泉州四台"
+}, {
+  "channelNum": 1833,
+  "channelName": "石狮新闻综合"
+}, {
+  "channelNum": 1835,
+  "channelName": "安溪新闻综合"
+}, {
+  "channelNum": 1839,
+  "channelName": "三明新闻综合"
+}, {
+  "channelNum": 1840,
+  "channelName": "三明公共频道"
+}, {
+  "channelNum": 1842,
+  "channelName": "漳浦综合频道"
+}, {
+  "channelNum": 1843,
+  "channelName": "漳浦国学教育"
+}, {
+  "channelNum": 1845,
+  "channelName": "宁德一台"
+}, {
+  "channelNum": 1846,
+  "channelName": "宁德二台"
+}, {
+  "channelNum": 1851,
+  "channelName": "邵武综合频道"
+}, {
+  "channelNum": 1900,
+  "channelName": "河南国际频道"
+}, {
+  "channelNum": 1901,
+  "channelName": "河南民生频道"
+}, {
+  "channelNum": 1902,
+  "channelName": "河南都市频道"
+}, {
+  "channelNum": 1903,
+  "channelName": "河南法治频道"
+}, {
+  "channelNum": 1904,
+  "channelName": "河南电视剧频道"
+}, {
+  "channelNum": 1905,
+  "channelName": "河南新闻频道"
+}, {
+  "channelNum": 1906,
+  "channelName": "河南移动戏曲"
+}, {
+  "channelNum": 1907,
+  "channelName": "河南公共频道"
+}, {
+  "channelNum": 1908,
+  "channelName": "河南新农村频道"
+}, {
+  "channelNum": 1909,
+  "channelName": "中原文娱"
+}, {
+  "channelNum": 1910,
+  "channelName": "郑州时政频道"
+}, {
+  "channelNum": 1911,
+  "channelName": "郑州商都频道"
+}, {
+  "channelNum": 1912,
+  "channelName": "郑州文体频道"
+}, {
+  "channelNum": 1913,
+  "channelName": "郑州影视戏曲"
+}, {
+  "channelNum": 1917,
+  "channelName": "安阳新闻综合"
+}, {
+  "channelNum": 1918,
+  "channelName": "安阳公共频道"
+}, {
+  "channelNum": 1919,
+  "channelName": "安阳科教频道"
+}, {
+  "channelNum": 1925,
+  "channelName": "晴彩中原"
+}, {
+  "channelNum": 1929,
+  "channelName": "濮阳综合频道"
+}, {
+  "channelNum": 1930,
+  "channelName": "濮阳公共频道"
+}, {
+  "channelNum": 1935,
+  "channelName": "洛阳综合频道"
+}, {
+  "channelNum": 1936,
+  "channelName": "洛阳科教频道"
+}, {
+  "channelNum": 1937,
+  "channelName": "洛阳公共频道"
+}, {
+  "channelNum": 1938,
+  "channelName": "洛阳移动频道"
+}, {
+  "channelNum": 1946,
+  "channelName": "许昌综合频道"
+}, {
+  "channelNum": 1947,
+  "channelName": "许昌公共频道"
+}, {
+  "channelNum": 1949,
+  "channelName": "晴彩许昌"
+}, {
+  "channelNum": 1953,
+  "channelName": "商丘新闻综合"
+}, {
+  "channelNum": 1956,
+  "channelName": "博爱综合频道"
+}, {
+  "channelNum": 1958,
+  "channelName": "周口新闻综合"
+}, {
+  "channelNum": 1959,
+  "channelName": "周口经济生活"
+}, {
+  "channelNum": 1960,
+  "channelName": "周口科教文化"
+}, {
+  "channelNum": 1961,
+  "channelName": "周口图文信息"
+}, {
+  "channelNum": 1967,
+  "channelName": "虞城新闻综合"
+}, {
+  "channelNum": 1968,
+  "channelName": "虞城综艺频道"
+}, {
+  "channelNum": 1969,
+  "channelName": "漯河一台"
+}, {
+  "channelNum": 1970,
+  "channelName": "漯河二台"
+}, {
+  "channelNum": 1975,
+  "channelName": "新乡新闻综合"
+}, {
+  "channelNum": 2002,
+  "channelName": "江西都市频道"
+}, {
+  "channelNum": 20013,
+  "channelName": "聚鲨环球精选"
+}, {
+  "channelNum": 2003,
+  "channelName": "江西经视频道"
+}, {
+  "channelNum": 2004,
+  "channelName": "江西影视频道"
+}, {
+  "channelNum": 2005,
+  "channelName": "江西公共频道"
+}, {
+  "channelNum": 2006,
+  "channelName": "江西炫彩频道"
+}, {
+  "channelNum": 2007,
+  "channelName": "江西红色经典"
+}, {
+  "channelNum": 2008,
+  "channelName": "江西移动电视"
+}, {
+  "channelNum": 2009,
+  "channelName": "江西陶瓷频道"
+}, {
+  "channelNum": 2010,
+  "channelName": "江西教育频道"
+}, {
+  "channelNum": 2011,
+  "channelName": "南昌新闻综合"
+}, {
+  "channelNum": 2012,
+  "channelName": "南昌都市频道"
+}, {
+  "channelNum": 2013,
+  "channelName": "南昌资讯政法"
+}, {
+  "channelNum": 2014,
+  "channelName": "南昌公共频道"
+}, {
+  "channelNum": 2021,
+  "channelName": "上饶新闻综合"
+}, {
+  "channelNum": 2022,
+  "channelName": "上饶公共频道"
+}, {
+  "channelNum": 2025,
+  "channelName": "抚州一台"
+}, {
+  "channelNum": 2026,
+  "channelName": "抚州二台"
+}, {
+  "channelNum": 2027,
+  "channelName": "抚州三台"
+}, {
+  "channelNum": 2031,
+  "channelName": "瑞金综合频道"
+}, {
+  "channelNum": 2032,
+  "channelName": "德兴新闻综合"
+}, {
+  "channelNum": 2033,
+  "channelName": "德兴城市生活"
+}, {
+  "channelNum": 2034,
+  "channelName": "德兴图文频道"
+}, {
+  "channelNum": 2035,
+  "channelName": "丰城综合频道"
+}, {
+  "channelNum": 2100,
+  "channelName": "广西国际频道"
+}, {
+  "channelNum": 2101,
+  "channelName": "广西新闻频道"
+}, {
+  "channelNum": 2102,
+  "channelName": "广西公共频道"
+}, {
+  "channelNum": 2106,
+  "channelName": "广西综艺频道"
+}, {
+  "channelNum": 2107,
+  "channelName": "广西都市频道"
+}, {
+  "channelNum": 2109,
+  "channelName": "广西影视频道"
+}, {
+  "channelNum": 2112,
+  "channelName": "南宁影视娱乐"
+}, {
+  "channelNum": 2111,
+  "channelName": "南宁新闻综合"
+}, {
+  "channelNum": 2113,
+  "channelName": "南宁公共频道"
+}, {
+  "channelNum": 2114,
+  "channelName": "南宁都市生活"
+}, {
+  "channelNum": 2121,
+  "channelName": "柳州新闻综合"
+}, {
+  "channelNum": 2122,
+  "channelName": "柳州科教频道"
+}, {
+  "channelNum": 2125,
+  "channelName": "河池新闻综合"
+}, {
+  "channelNum": 2127,
+  "channelName": "北海新闻综合"
+}, {
+  "channelNum": 2202,
+  "channelName": "内蒙古新闻综合"
+}, {
+  "channelNum": 2203,
+  "channelName": "内蒙古经济生活"
+}, {
+  "channelNum": 2204,
+  "channelName": "内蒙古文体娱乐"
+}, {
+  "channelNum": 2205,
+  "channelName": "内蒙古农牧频道"
+}, {
+  "channelNum": 2206,
+  "channelName": "内蒙古少儿频道"
+}, {
+  "channelNum": 2212,
+  "channelName": "包头新闻综合"
+}, {
+  "channelNum": 2213,
+  "channelName": "包头生活服务"
+}, {
+  "channelNum": 2214,
+  "channelName": "包头经济频道"
+}, {
+  "channelNum": 2221,
+  "channelName": "呼和浩特新闻综合"
+}, {
+  "channelNum": 2222,
+  "channelName": "呼和浩特都市生活"
+}, {
+  "channelNum": 2223,
+  "channelName": "呼和浩特影视娱乐"
+}, {
+  "channelNum": 2224,
+  "channelName": "赤峰新闻综合"
+}, {
+  "channelNum": 2225,
+  "channelName": "赤峰经济服务"
+}, {
+  "channelNum": 2226,
+  "channelName": "赤峰影视娱乐"
+}, {
+  "channelNum": 2301,
+  "channelName": "海南综合频道"
+}, {
+  "channelNum": 2302,
+  "channelName": "海南公共频道"
+}, {
+  "channelNum": 2303,
+  "channelName": "海南影视频道"
+}, {
+  "channelNum": 2304,
+  "channelName": "海南新闻频道"
+}, {
+  "channelNum": 2305,
+  "channelName": "海南少儿频道"
+}, {
+  "channelNum": 2307,
+  "channelName": "海南三沙卫视"
+}, {
+  "channelNum": 2311,
+  "channelName": "海口新闻综合"
+}, {
+  "channelNum": 2312,
+  "channelName": "海口生活娱乐"
+}, {
+  "channelNum": 2313,
+  "channelName": "海口双创频道"
+}, {
+  "channelNum": 2314,
+  "channelName": "三亚一台"
+}, {
+  "channelNum": 2400,
+  "channelName": "云南国际频道"
+}, {
+  "channelNum": 2401,
+  "channelName": "云视精品频道"
+}, {
+  "channelNum": 2402,
+  "channelName": "云南都市频道"
+}, {
+  "channelNum": 2403,
+  "channelName": "云南娱乐频道"
+}, {
+  "channelNum": 2404,
+  "channelName": "云南少儿频道"
+}, {
+  "channelNum": 2405,
+  "channelName": "云南公共频道"
+}, {
+  "channelNum": 2408,
+  "channelName": "昆明新闻综合"
+}, {
+  "channelNum": 2409,
+  "channelName": "昆明经济生活"
+}, {
+  "channelNum": 2410,
+  "channelName": "昆明科教频道"
+}, {
+  "channelNum": 2411,
+  "channelName": "昆明文娱频道"
+}, {
+  "channelNum": 2412,
+  "channelName": "昆明影视综艺"
+}, {
+  "channelNum": 2413,
+  "channelName": "昆明公共频道"
+}, {
+  "channelNum": 2414,
+  "channelName": "丽江新闻综合"
+}, {
+  "channelNum": 2415,
+  "channelName": "丽江公共频道"
+}, {
+  "channelNum": 2416,
+  "channelName": "丽江古城台"
+}, {
+  "channelNum": 2417,
+  "channelName": "丽江玉龙台"
+}, {
+  "channelNum": 2418,
+  "channelName": "丽江华坪台"
+}, {
+  "channelNum": 2420,
+  "channelName": "红河新闻综合"
+}, {
+  "channelNum": 2421,
+  "channelName": "红河经济生活"
+}, {
+  "channelNum": 2424,
+  "channelName": "玉溪新闻综合"
+}, {
+  "channelNum": 2425,
+  "channelName": "玉溪公共频道"
+}, {
+  "channelNum": 2436,
+  "channelName": "普洱一台"
+}, {
+  "channelNum": 2437,
+  "channelName": "普洱二台"
+}, {
+  "channelNum": 2438,
+  "channelName": "普洱三台"
+}, {
+  "channelNum": 2439,
+  "channelName": "普洱四台"
+}, {
+  "channelNum": 2441,
+  "channelName": "龙陵综合频道"
+}, {
+  "channelNum": 2502,
+  "channelName": "贵州公共频道"
+}, {
+  "channelNum": 2509,
+  "channelName": "贵阳新闻综合"
+}, {
+  "channelNum": 2510,
+  "channelName": "贵阳经济生活"
+}, {
+  "channelNum": 2511,
+  "channelName": "贵阳法制频道"
+}, {
+  "channelNum": 2512,
+  "channelName": "贵阳影视频道"
+}, {
+  "channelNum": 2516,
+  "channelName": "黔东南新闻综合"
+}, {
+  "channelNum": 2518,
+  "channelName": "凯里综合频道"
+}, {
+  "channelNum": 2521,
+  "channelName": "铜仁一台"
+}, {
+  "channelNum": 2530,
+  "channelName": "习水综合频道"
+}, {
+  "channelNum": 2706,
+  "channelName": "银川公共频道"
+}, {
+  "channelNum": 2707,
+  "channelName": "银川生活频道"
+}, {
+  "channelNum": 2801,
+  "channelName": "甘肃经济频道"
+}, {
+  "channelNum": 2802,
+  "channelName": "甘肃少儿频道"
+}, {
+  "channelNum": 2803,
+  "channelName": "甘肃公共频道"
+}, {
+  "channelNum": 2804,
+  "channelName": "甘肃都市频道"
+}, {
+  "channelNum": 2805,
+  "channelName": "甘肃文化影视"
+}, {
+  "channelNum": 2806,
+  "channelName": "甘肃移动电视"
+}, {
+  "channelNum": 2811,
+  "channelName": "兰州新闻综合"
+}, {
+  "channelNum": 2812,
+  "channelName": "兰州公共频道"
+}, {
+  "channelNum": 2813,
+  "channelName": "兰州综艺体育"
+}, {
+  "channelNum": 2814,
+  "channelName": "兰州生活经济"
+}, {
+  "channelNum": 2816,
+  "channelName": "天水新闻综合"
+}, {
+  "channelNum": 2817,
+  "channelName": "天水公共频道"
+}, {
+  "channelNum": 2818,
+  "channelName": "天水旅游资讯"
+}, {
+  "channelNum": 2828,
+  "channelName": "张掖新闻频道"
+}, {
+  "channelNum": 2829,
+  "channelName": "张掖公共频道"
+}, {
+  "channelNum": 2901,
+  "channelName": "黑龙江影视频道"
+}, {
+  "channelNum": 2902,
+  "channelName": "黑龙江文体频道"
+}, {
+  "channelNum": 2903,
+  "channelName": "黑龙江都市频道"
+}, {
+  "channelNum": 2904,
+  "channelName": "黑龙江新闻频道"
+}, {
+  "channelNum": 2905,
+  "channelName": "黑龙江公共·农业"
+}, {
+  "channelNum": 2906,
+  "channelName": "黑龙江北大荒农业"
+}, {
+  "channelNum": 2908,
+  "channelName": "黑龙江少儿频道"
+}, {
+  "channelNum": 2917,
+  "channelName": "哈尔滨新闻综合"
+}, {
+  "channelNum": 2918,
+  "channelName": "哈尔滨资讯频道"
+}, {
+  "channelNum": 2919,
+  "channelName": "哈尔滨生活频道"
+}, {
+  "channelNum": 2921,
+  "channelName": "哈尔滨影视频道"
+}, {
+  "channelNum": 2922,
+  "channelName": "哈尔滨娱乐频道"
+}, {
+  "channelNum": 2926,
+  "channelName": "齐齐哈尔新闻综合"
+}, {
+  "channelNum": 2927,
+  "channelName": "齐齐哈尔专题频道"
+}, {
+  "channelNum": 3001,
+  "channelName": "吉林都市频道"
+}, {
+  "channelNum": 3002,
+  "channelName": "吉林生活频道"
+}, {
+  "channelNum": 3003,
+  "channelName": "吉林影视频道"
+}, {
+  "channelNum": 3004,
+  "channelName": "吉林乡村频道"
+}, {
+  "channelNum": 3005,
+  "channelName": "吉林综艺·文化"
+}, {
+  "channelNum": 3006,
+  "channelName": "吉林公共·新闻"
+}, {
+  "channelNum": 3007,
+  "channelName": "东北戏曲频道"
+}, {
+  "channelNum": 3008,
+  "channelName": "吉林篮球频道"
+}, {
+  "channelNum": 3009,
+  "channelName": "吉林教育电视台"
+}, {
+  "channelNum": 3011,
+  "channelName": "长春综合频道"
+}, {
+  "channelNum": 3017,
+  "channelName": "通化新闻综合"
+}, {
+  "channelNum": 3021,
+  "channelName": "榆树综合频道"
+}, {
+  "channelNum": 3022,
+  "channelName": "榆树综艺频道"
+}, {
+  "channelNum": 3023,
+  "channelName": "镇赉综合频道"
+}, {
+  "channelNum": 3031,
+  "channelName": "四平综合频道"
+}, {
+  "channelNum": 3033,
+  "channelName": "辽源综合频道"
+}, {
+  "channelNum": 3034,
+  "channelName": "松原综合频道"
+}, {
+  "channelNum": 3035,
+  "channelName": "白城综合频道"
+}, {
+  "channelNum": 3041,
+  "channelName": "白山综合频道"
+}, {
+  "channelNum": 3102,
+  "channelName": "辽宁公共频道"
+}, {
+  "channelNum": 3103,
+  "channelName": "辽宁生活频道"
+}, {
+  "channelNum": 3104,
+  "channelName": "辽宁都市频道"
+}, {
+  "channelNum": 3105,
+  "channelName": "辽宁影视剧频道"
+}, {
+  "channelNum": 3107,
+  "channelName": "辽宁北方频道"
+}, {
+  "channelNum": 3108,
+  "channelName": "辽宁教育青少"
+}, {
+  "channelNum": 3109,
+  "channelName": "辽宁经济频道"
+}, {
+  "channelNum": 3110,
+  "channelName": "辽宁体育频道"
+}, {
+  "channelNum": 3111,
+  "channelName": "大连新闻综合"
+}, {
+  "channelNum": 3112,
+  "channelName": "大连生活频道"
+}, {
+  "channelNum": 3113,
+  "channelName": "大连公共频道"
+}, {
+  "channelNum": 3114,
+  "channelName": "大连文体频道"
+}, {
+  "channelNum": 3115,
+  "channelName": "大连影视频道"
+}, {
+  "channelNum": 3116,
+  "channelName": "大连少儿频道"
+}, {
+  "channelNum": 3117,
+  "channelName": "大连财经频道"
+}, {
+  "channelNum": 3139,
+  "channelName": "瓦房店新闻综合"
+}, {
+  "channelNum": 3140,
+  "channelName": "瓦房店经济生活"
+}]
